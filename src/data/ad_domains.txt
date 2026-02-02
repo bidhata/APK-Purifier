@@ -1,0 +1,83 @@
+# Known advertisement domains
+# This file contains domains commonly used for serving advertisements
+# Lines starting with # are comments and will be ignored
+
+# Google Ads
+googleads.g.doubleclick.net
+googlesyndication.com
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+adsystem.google.com
+
+# Facebook Ads
+facebook.com/tr
+connect.facebook.net
+graph.facebook.com
+
+# Amazon Ads
+amazon-adsystem.com
+assoc-amazon.com
+amazonaax.com
+
+# Unity Ads
+unity3d.com/ads
+unityads.unity3d.com
+
+# Mobile Ad Networks
+chartboost.com
+applovin.com
+ironsrc.com
+ironsource.com
+vungle.com
+tapjoy.com
+inmobi.com
+mopub.com
+admob.com
+adsystem.com
+advertising.com
+ads.yahoo.com
+bing.com/ads
+
+# Other Ad Networks
+adnxs.com
+adsystem.com
+doubleclick.net
+adsystem.google.com
+googlesyndication.com
+amazon-adsystem.com
+facebook.com/tr
+unity3d.com
+chartboost.com
+applovin.com
+ironsource.com
+vungle.com
+tapjoy.com
+inmobi.com
+mopub.com
+
+# Analytics (often used with ads)
+google-analytics.com
+googletagmanager.com
+mixpanel.com
+flurry.com
+crashlytics.com
+
+# Ad Exchanges
+openx.net
+pubmatic.com
+rubiconproject.com
+indexexchange.com
+appnexus.com
+
+# Video Ads
+youtube.com/ads
+brightcove.com
+jwplayer.com
+
+# Mobile Specific
+startapp.com
+leadbolt.com
+airpush.com
+appbrain.com

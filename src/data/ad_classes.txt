@@ -1,0 +1,58 @@
+# Known advertisement class patterns
+# This file contains Java/Android class patterns commonly used for advertisements
+# Lines starting with # are comments and will be ignored
+
+# Google Ads
+com/google/ads
+com/google/android/gms/ads
+com/google/android/gms/internal/ads
+
+# Facebook Ads
+com/facebook/ads
+
+# Amazon Ads
+com/amazon/device/ads
+
+# Unity Ads
+com/unity3d/ads
+
+# Mobile Ad Networks
+com/chartboost
+com/applovin
+com/ironsource
+com/vungle
+com/tapjoy
+com/inmobi
+com/mopub
+com/admob
+com/adsystem
+com/advertising
+
+# Other Common Ad Patterns
+ads/
+advertisement/
+adview/
+banner/
+interstitial/
+
+# Analytics (often bundled with ads)
+com/google/analytics
+com/mixpanel
+com/flurry
+com/crashlytics
+
+# Ad Mediation
+com/google/android/gms/ads/mediation
+com/applovin/mediation
+com/ironsource/mediationsdk
+
+# Video Ads
+com/google/ads/interactivemedia
+com/brightcove/player
+com/longtailvideo/jwplayer
+
+# Mobile Specific Ad Networks
+com/startapp
+com/leadbolt
+com/airpush
+com/appbrain
