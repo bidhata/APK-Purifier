@@ -7,6 +7,17 @@ A cross-platform desktop application for Windows and Linux that purifies Android
 **GitHub:** https://github.com/bidhata/APK-Purifier  
 **Contact:** me@krishnendu.com
 
+## 📸 Screenshots
+
+### Main Interface
+![APK Purifier Main Window](screenshots/main-window.png)
+
+### Processing in Action
+![APK Processing](screenshots/processing.png)
+
+### Settings Dialog
+![Settings Configuration](screenshots/settings.png)
+
 ## ✨ Features
 
 - **🎯 Ad Removal**: Remove advertisements using multiple detection methods

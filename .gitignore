@@ -75,6 +75,11 @@ crash_report.txt
 temp/
 *.tmp
 
+# Screenshots are tracked
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
+
 # User data
 *.apk
 *.obb
